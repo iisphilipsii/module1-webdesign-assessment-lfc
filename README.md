@@ -5,9 +5,7 @@ HTML and CSS as a learning project at the UCD Professional Diploma in Full Stack
 
 ## Live site
 
-Hosted with GitHub Pages: `https://<your-username>.github.io/liverpool-fc/`
-
-> Replace `<your-username>` with your GitHub username once Pages is enabled.
+Hosted with GitHub Pages: <https://iisphilipsii.github.io/module1-webdesign-assessment-lfc/>
 
 ## Pages
 
